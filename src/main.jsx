@@ -10,7 +10,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <PlayerContextProvider>
     <App />
     </PlayerContextProvider>
-    
     </BrowserRouter>
   </React.StrictMode>,
 )
